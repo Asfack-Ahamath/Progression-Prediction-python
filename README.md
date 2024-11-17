@@ -14,5 +14,3 @@ A Python-based application designed to analyze and visualize student progression
 - **Data Persistence**:
   - Save outcomes to text files for future analysis.
   - Retrieve and display stored data effortlessly.
-
-## 📂 Project Structure
