@@ -1,0 +1,8 @@
+01. Progress                             -   120     0     0
+02. Do not progress – module retriever   -    80    20    20
+03. Progress (module trailer)            -   100    20     0
+04. Progress (module trailer)            -   100     0    20
+05. Do not progress – module retriever   -    80    20    20
+06. Progress (module trailer)            -   100     0    20
+07. Do not progress – module retriever   -    40    40    40
+08. Do not progress – module retriever   -    80    20    20
